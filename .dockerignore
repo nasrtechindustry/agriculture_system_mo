@@ -1,8 +1,5 @@
 
 
-# If you use dotenv locally
-.env
-
 
 # Dockerfile and dockerignore (not needed inside container)
 Dockerfile
